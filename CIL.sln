@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CILTypes", "CILTypes\CILTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CILAssembly", "CILAssembly\CILAssembly.csproj", "{794C2042-0954-470B-AD91-4E02B1F71295}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicAsmBuilder", "DynamicAsmBuilder\DynamicAsmBuilder.csproj", "{8EE461F0-5EFA-4FB5-BE75-A5F4B3529729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{794C2042-0954-470B-AD91-4E02B1F71295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794C2042-0954-470B-AD91-4E02B1F71295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794C2042-0954-470B-AD91-4E02B1F71295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE461F0-5EFA-4FB5-BE75-A5F4B3529729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE461F0-5EFA-4FB5-BE75-A5F4B3529729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE461F0-5EFA-4FB5-BE75-A5F4B3529729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE461F0-5EFA-4FB5-BE75-A5F4B3529729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
